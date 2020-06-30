@@ -1,0 +1,2 @@
+打开git bash ，输入git init创建版本库，然后git add . 将当前目录下所有文件add进本地git
+然后git commit -m '初始化项目'
