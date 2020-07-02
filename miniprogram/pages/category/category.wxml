@@ -1,0 +1,4 @@
+<!--pages/category/category.wxml-->
+<text>pages/category/category.wxml</text>
+<button bindtap="handleBtnClick" size="mini">按钮</button>
+<view>{{message}}</view>
